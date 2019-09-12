@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec81039-ee0f-4983-926a-dacb1b166dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/parent_heatmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent_heatmap_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent_heatmap_js_right.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/grid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,9 +41,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Viz/2017-HW3-Solution/2017-HW3-Solution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kaiser\WebstormProjects\RF_visualization" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,10 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Test_visualization/home.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.parent_heatmap.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RF_visualization/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -67,16 +72,19 @@
     <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Test_visualization/main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="parent_heatmap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RF_visualization/parent_heatmap.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="grid.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="grid.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.parent_heatmap.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.grid.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.main.html" />
-        <item itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +102,7 @@
       <workItem from="1567025582585" duration="14828000" />
       <workItem from="1567122292555" duration="163000" />
       <workItem from="1567122469034" duration="1497000" />
-      <workItem from="1567200574888" duration="30973000" />
+      <workItem from="1567200574888" duration="53335000" />
     </task>
     <servers />
   </component>

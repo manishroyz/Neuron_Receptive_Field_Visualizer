@@ -1,0 +1,42 @@
+<html>
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <style type="text/css">
+        .cell{
+            stroke: gray;
+            stroke-width:1px;
+        }
+        .cell_hover{
+             stroke: lightgray;
+             stroke-width:2px;
+             opacity: 0.8;
+         }
+        .cell_others{
+            fill: #F9FADB;
+            stroke: black;
+            stroke-width:2px;
+            opacity:0.4;
+        }
+
+        .cell_rf1{
+            stroke: black;
+            fill: #399581;
+            stroke-width:2px;
+        }
+        .cell_rf2{
+            stroke: black;
+            fill: #DA2E00;
+            stroke-width:2px;
+        }
+    </style>
+</head>
+<body>
+    <div> <p><b>Left Saccade</b> </p></div>
+    <div id="grid_left"></div>
+
+    <div> <p><b>Right Saccade</b> </p></div>
+    <div id="grid_right"></div>
+    <script src="parent_heatmap_js.js" type="text/javascript"></script>
+    <script src="parent_heatmap_js_right.js" type="text/javascript"></script>
+</body>
+</html>
