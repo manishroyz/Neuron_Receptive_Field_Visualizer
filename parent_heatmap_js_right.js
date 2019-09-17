@@ -120,7 +120,7 @@ function mouseleave(d) {
 
 // Build color scale
 var myColor = d3.scaleLinear()
-    .domain([-6,36])
+    //.domain([-6,36])
     .range(["#C9FBFF", "#030A97"])
 
 
