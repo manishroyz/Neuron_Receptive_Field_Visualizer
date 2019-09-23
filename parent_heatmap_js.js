@@ -126,16 +126,16 @@ var myColor = d3.scaleLinear()
 
 
 // X --> columns
-var x_range = 25;
+var x_range = 41;
 // Y --> rows
-var y_range = 7;
+var y_range = 41;
 
 function gridData() {
     var data = new Array();
     var xpos = 1; //starting xpos and ypos at 1 so the stroke will show when we make the grid below
     var ypos = 1;
-    var width = 50;
-    var height = 50;
+    var width = 20;
+    var height = 20;
 
     var click = false;
     var cell_cntr = 0;
@@ -205,6 +205,7 @@ var column = row.selectAll(".square")
     .attr("class", "cell")
     .attr("ct",function (d) {
         d.ct = compute_ct(d);
+        //console.log(d.cell_id_x + ',' + d.cell_id_y + ',' + d.ct);
         //console.log('ct===='+d.ct);
         return d.ct;
     })

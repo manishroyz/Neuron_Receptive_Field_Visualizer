@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec81039-ee0f-4983-926a-dacb1b166dd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent_heatmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/parent_heatmap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parent_heatmap_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/parent_heatmap_js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parent_heatmap_js_right.js" beforeDir="false" afterPath="$PROJECT_DIR$/parent_heatmap_js_right.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.parent_heatmap.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.parent_heatmap.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RF_visualization/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.parent_heatmap.html (1)" />
         <item itemvalue="JavaScript Debug.parent_heatmap.html" />
+        <item itemvalue="JavaScript Debug.parent_heatmap.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.grid.js" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -102,6 +102,7 @@
       <workItem from="1567200574888" duration="53335000" />
       <workItem from="1568303779389" duration="3502000" />
       <workItem from="1568678846479" duration="609000" />
+      <workItem from="1569213370980" duration="1264000" />
     </task>
     <servers />
   </component>
